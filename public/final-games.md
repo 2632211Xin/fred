@@ -34,7 +34,7 @@ https://treybertram06.github.io/GameDevFinal/index.html
 
  https://thefoxking.github.io/work-no-play/public/t2a20-game-template-fred.html
 
- https://2632211xin.github.io/game-dev-2023/public/game-Xin.html
+
 
 
 
@@ -72,3 +72,4 @@ https://powbaby.github.io/game-dev-2023/public/final-game-startpage-Lincoln.html
  https://matthewnuspl.github.io/game-dev-2023/public/Game.html
 
 
+https://2632211xin.github.io/game-dev-2023/public/final-game-Xin.html
